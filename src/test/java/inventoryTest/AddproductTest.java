@@ -7,7 +7,7 @@ import Generic_utility.Baseclass;
 
 public class AddproductTest extends Baseclass{
 
-	@Test(groups = "SmokeSuite")
+	@Test
 	public void TC_01_Addproducttocarttest() throws Exception
 	
 	{
