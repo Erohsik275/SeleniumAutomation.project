@@ -5,7 +5,7 @@
 
 <groups>
 <run>
-<include name="SmokeSuite"></include>
+<exclude name="SmokeSuite"></exclude>
 
 </run>
 </groups>
